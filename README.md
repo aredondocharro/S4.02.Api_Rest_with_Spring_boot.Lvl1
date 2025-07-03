@@ -1,4 +1,4 @@
-# 🍓 Fruits API — Spring Boot RESTful Service
+# 🍓 Fruits API — Spring Boot RESTful Service with H2 Database
 
 A clean and well-layered REST API built with **Spring Boot 3** for managing fruits. This project demonstrates strong principles of clean architecture, validation, error handling, and automated testing using Spring’s ecosystem.
 
